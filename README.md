@@ -1,2 +1,2 @@
-# shin-s-portfolio
-venti
+# genshin-inspired student portfolio
+shin's portfolio
